@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="APIAutomationSuite">
+
+<test name="UserTests">
+
+<classes>
+
+<class name="tests.UserTests"/>
+
+</classes>
+
+</test>
+
+</suite>

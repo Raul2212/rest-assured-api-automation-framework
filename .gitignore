@@ -1,0 +1,9 @@
+target/
+bin/
+logs/
+reports/
+screenshots/
+allure-results/
+.settings/
+.project
+.classpath
